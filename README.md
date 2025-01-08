@@ -94,7 +94,8 @@ Hi there! 👋 I'm a **MERN Stack Developer** with a passion for creating impact
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lutforrahman3845&locale=en&hide_title=ture&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=ture&order=2" height="150" alt="languages graph"  />
 </div>
 
-
-
+<div align="center">
+   <img src="https://streak-stats.demolab.com/?user=lutforrahman3845&theme=dark&border_radius=5&hide_border=true"  />
+</div>
 
 ###
