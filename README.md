@@ -90,11 +90,9 @@ Hi there! 👋 I'm a **MERN Stack Developer** with a passion for creating impact
 ###
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=lutforrahman3845&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=lutforrahman3845&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lutforrahman3845&locale=en&hide_title=ture&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=ture&order=2" height="150" alt="languages graph"  />
 </div>
-
-
 
 
 
