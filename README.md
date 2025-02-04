@@ -95,7 +95,10 @@ Hi there! 👋 I'm a **MERN Stack Developer** with a passion for creating impact
 </div>
 
 <div align="center">
-   <img src="https://streak-stats.demolab.com/?user=lutforrahman3845&theme=dark&border_radius=5&hide_border=true"  />
+<a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=lutforrahman3845&theme=dark" alt="GitHub Streak" />
+</a>
+
 </div>
 
 ###
