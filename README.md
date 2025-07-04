@@ -37,7 +37,6 @@ Hi there! 👋 I'm a **MERN Stack Developer** with a passion for creating impact
 <h2 align="left">Technologies & Tools</h2>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo"  />
   <img width="12" />
@@ -61,7 +60,6 @@ Hi there! 👋 I'm a **MERN Stack Developer** with a passion for creating impact
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="31" alt="github logo"  />
 </div>
-
 ###
 
 <h2 align="left">Connect with me</h2>
@@ -99,5 +97,5 @@ Hi there! 👋 I'm a **MERN Stack Developer** with a passion for creating impact
   </a>
 </p>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lutforrahman3845&bg_color=0D1117&color=00FFFF&line=00BFBF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header&fontSize=0" width="100%">
 </div>
