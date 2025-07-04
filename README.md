@@ -85,20 +85,32 @@ Hi there! 👋 I'm a **MERN Stack Developer** with a passion for creating impact
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
+    GitHub Analytics
+  </h2>
+</div>
 
-###
+<p align="center">
+  <a href="https://github.com/lutforrahman3845">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gaznafis007&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&ring_color=00bfbf&card_width=495"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gaznafis007&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaznafis007&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=00FFFF&ring=00FFFF&currStreakLabel=00FFFF&background=0D1117" alt="Streak Stats" />
+</p>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=lutforrahman3845&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lutforrahman3845&locale=en&hide_title=ture&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=ture&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=gaznafis007&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" width="90%" />
 </div>
 
 <div align="center">
-<a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app?user=lutforrahman3845&theme=dark" alt="GitHub Streak" />
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaznafis007&bg_color=0D1117&color=00FFFF&line=00BFBF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%">
 </div>
 
-###
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header&fontSize=0" width="100%">
+</div>
