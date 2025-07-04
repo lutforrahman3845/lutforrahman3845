@@ -73,8 +73,6 @@ Hi there! 👋 I'm a **MERN Stack Developer** with a passion for creating impact
   </a>
 </p>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header&fontSize=0" width="100%">
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lutforr3845&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /
+  <img src="https://streak-stats.demolab.com?user=lutforr3845&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=lutforr3845&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
