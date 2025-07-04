@@ -98,3 +98,6 @@ Hi there! 👋 I'm a **MERN Stack Developer** with a passion for creating impact
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lutforrahman3845&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
   </a>
 </p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lutforrahman3845&bg_color=0D1117&color=00FFFF&line=00BFBF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%">
+</div>
