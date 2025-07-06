@@ -53,12 +53,14 @@
   </h2>
 </div>
 
-<p align="center">
-  <a href="https://github.com/lutforrahman3845">
+<div align="center" style="margin-bottom: 10px;">
+  <a href="https://github.com/lutforrahman3845" style="display: inline-block;">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lutforrahman3845&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&ring_color=00bfbf&card_width=495"/>
+  </a>
+  <a href="https://github.com/lutforrahman3845" style="display: inline-block;">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lutforrahman3845&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
   </a>
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lutforrahman3845&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=00FFFF&ring=00FFFF&currStreakLabel=00FFFF&background=0D1117" alt="Streak Stats" />
