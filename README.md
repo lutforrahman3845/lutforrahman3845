@@ -6,15 +6,13 @@
 
 <h4 align="left">Hi 👋 I'm Lutfor Rahman</h4>
 
-<p align="left">I’m aMERN Stack Developer with a passion for creating user-friendly and interactive web applications.</p>
-
 ###
 
 <h2 align="left">About me</h2>
 
 ###
 
-Hi there! 👋 I'm a **MERN Stack Developer** with a passion for creating impactful web applications and exploring cutting-edge technologies.  
+ Hi there! 👋 I'm a Software Engineer with a passion for developing robust software and web applications that solve real-world problems and drive meaningful impact.  
 
 - 🎯 **Lifelong Learner:** Constantly improving my skills and staying updated with industry trends is a priority for me.  
 - 💡 **Tech Enthusiast:** I'm passionate about learning and experimenting with new technologies, frameworks, and tools to expand my knowledge.  
@@ -22,20 +20,9 @@ Hi there! 👋 I'm a **MERN Stack Developer** with a passion for creating impact
 - 🌟 **Anime Lover:** I enjoy watching anime, which fuels my creativity and inspires me to think differently.  
 
 ###
-
-<h2 align="left">Developer Highlights</h2>
-
-###
-
-- 🌱 Currently exploring **MERN Stack** and working on improving my **React** and **Node.js** skills.
-- 🛠️ Proficient in **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, **React**, and **Firebase**.
-- 📖 Learning advanced concepts in **Express.js**, **MongoDB**, and system design.
-- 💡 Always open to learning new technologies and collaborating on exciting projects!
-
-###
 <h2 align="left">Technologies & Tools</h2>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git,github" height="31" alt="Technologies and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,redux,nodejs,express,mongodb,firebase,git,github" height="31" alt="Technologies and Tools" />
 </div>
 
 <h2 align="left">Connect with me</h2>
