@@ -3,11 +3,9 @@
 </div>
 
 ###
-
 <h4 align="left">Hi 👋 I'm Lutfor Rahman</h4>
 
 ###
-
 <h2 align="left">About me</h2>
 
 ###
